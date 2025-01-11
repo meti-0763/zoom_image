@@ -16,8 +16,9 @@ body {
 }
 
 img {
-    transform-origin: center;
+    transform-origin: 10px 10px;
     object-fit: cover;
     height: 100%;
     width: 100%;
+    transform: scale(3);
 }
